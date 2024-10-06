@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Добро пожаловать! on Породы кошек</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Добро пожаловать! on Породы кошек</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 06 Oct 2024 02:12:02 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 06 Oct 2024 02:12:02 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Бенгальская кошка</title>
+      <link>http://localhost:1313/posts/bengal-cat/</link>
+      <pubDate>Sun, 06 Oct 2024 02:12:02 +0300</pubDate>
+      <guid>http://localhost:1313/posts/bengal-cat/</guid>
+      <description>&lt;h2 id=&#34;порода-бенгальская-кошка&#34;&gt;Порода Бенгальская кошка&lt;/h2&gt;&#xA;&lt;p&gt;Межродовой гибрид домашней кошки и собственно бенгальской кошки.&lt;/p&gt;&#xA;&lt;p&gt;Порода была представлена на выставке в 1987 году. В 1991 году породу официально зарегистрировали и допустили к выставкам и породному разведению.&lt;/p&gt;&#xA;&lt;p&gt;Одно из названий дикой бенгальской кошки — «леопардовая кошка», поэтому может возникнуть предположение о её близком родстве с леопардом. На самом деле она не ближе к леопарду, чем обычная домашняя кошка, хотя результат гибридизации с другим родом — родом восточные кошки.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Мейн-кун</title>
+      <link>http://localhost:1313/posts/mejn-kun/</link>
+      <pubDate>Sun, 06 Oct 2024 02:12:02 +0300</pubDate>
+      <guid>http://localhost:1313/posts/mejn-kun/</guid>
+      <description>&lt;h2 id=&#34;порода-мейн-кун&#34;&gt;Порода Мейн-кун&lt;/h2&gt;&#xA;&lt;p&gt;Порода кошек, которая произошла от кошек штата Мэн на северо-востоке США.&lt;/p&gt;&#xA;&lt;p&gt;Это старейшая американская порода кошек. Является официальным символом штата Мэн.&lt;/p&gt;&#xA;&lt;p&gt;Мейн-кун — крупнейшая порода кошек. Самцы весят от 5,9 до 8,2 кг, а самки — от 3,6 до 5,4 кг. Высота в холке у взрослых кошек достигает от 25 до 41 см, а общая длина с хвостом — до 120 см.&lt;/p&gt;&#xA;&lt;p&gt;Мейн-кун — длинношёрстная кошка. Шерсть мягкая и шелковистая, текстура может варьироваться в зависимости от цвета шерсти и породного типа.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Шотландская вислоухая кошка</title>
+      <link>http://localhost:1313/posts/scotland/</link>
+      <pubDate>Sun, 06 Oct 2024 02:12:02 +0300</pubDate>
+      <guid>http://localhost:1313/posts/scotland/</guid>
+      <description>&lt;h2 id=&#34;порода-шотландская-вислоухая-кошка&#34;&gt;Порода Шотландская вислоухая кошка&lt;/h2&gt;&#xA;&lt;p&gt;Порода домашних кошек с характерными загнутыми вперёд и вниз ушами, что вызвано действием доминантного гена, который возник в результате естественной мутации и оказывающий влияние на хрящи во всём организме.&lt;/p&gt;&#xA;&lt;p&gt;Необычные выделяющиеся черты породы, вкупе с репутацией необычно дружелюбных компаньонов, сделали скоттиш-фолдов очень популярной породой. Цена на породистых котят существенно выше, нежели на котят более распространённых пород&lt;/p&gt;&#xA;&lt;p&gt;Кошки среднего размера. Вес котов обычно составляет от 4 до 6 кг, кошек — от 2,7 до 4 кг. Общие черты туловища, особенно головы и морды, округлые. Глаза крупные и круглые. Нос короткий, с плавным изгибом. Ноги от средних до коротких. Голова куполообразная сверху, шея очень короткая. Широко расставленные глаза придают скоттиш-фолдам «милое выражение»&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
