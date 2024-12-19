@@ -1,11 +1,15 @@
 +++
-title = 'My First Post'
+title = 'Mой первый пост'
 date = 2024-10-06T02:12:02+03:00
 draft = false
 featured_image = 'cat.jpg'
 +++
-## Introduction
+## Вступление
 
-This is **bold** text, and this is *emphasized* text.
+ *Добро пожаловать на мой статичный сайт.*
 
-Visit the [Hugo](https://gohugo.io) website!
+ *Работа выполнена в Visual Studio на языке программирования HTML.* 
+
+ *На этом сайте предоставленна информация о некоторых породах кошек.*
+
+ ***Приятного ознакомления!***
